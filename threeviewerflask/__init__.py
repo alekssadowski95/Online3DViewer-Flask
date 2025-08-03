@@ -1,5 +1,5 @@
 from flask import Flask
-from flask import render_template, url_for, redirect, request
+from flask import render_template
 
 
 # Create flask app instance
